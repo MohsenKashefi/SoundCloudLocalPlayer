@@ -1,4 +1,4 @@
-# newproject
+# SoundCloudLocalPlayer
 
 A new Flutter project.
 
